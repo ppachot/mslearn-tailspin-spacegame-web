@@ -1,4 +1,4 @@
-# ASP.NET Core (.NET Framework)
+# ASP.NET Core
 - task: DotNetCoreCLI@2
   inputs:
     command: 'build'
